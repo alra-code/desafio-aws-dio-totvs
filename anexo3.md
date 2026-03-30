@@ -10,3 +10,5 @@
 * **Dados Semi-Ativos (31-90 dias):** Movimentação automática via *Lifecycle Policy* para **S3 Standard-IA** (Acesso Infrequente). Reduz o custo de armazenamento mantendo a disponibilidade para auditorias.
 * **Arquivamento Legal (91 dias - 5 anos):** Movimentação para o **S3 Glacier Flexible Retrieval**. Cumpre a legislação de guarda de receituários com o menor custo possível.
 * **Exclusão Permanente:** Após 5 anos (ou conforme legislação vigente), os dados são deletados automaticamente para garantir a conformidade e eliminar custos residuais.
+
+Voltar >>> [Readme](./readme.md)

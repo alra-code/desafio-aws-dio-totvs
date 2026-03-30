@@ -15,3 +15,5 @@ Sempre taguear as instâncias (ex: `Projeto: Farmacia`, `Ambiente: Producao`). I
 
 ### 4. Agendamento (Instance Scheduler)
 Configure o desligamento automático de instâncias de ambientes de teste ou administrativo fora do horário comercial da farmácia, evitando cobranças por ociosidade.
+
+Voltar >>> [Readme](./readme.md)
